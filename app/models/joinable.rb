@@ -1,0 +1,2 @@
+class Joinable < ApplicationRecord
+end
